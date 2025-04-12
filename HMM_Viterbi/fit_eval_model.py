@@ -1,6 +1,6 @@
 """
     Created By Zeng zhiwen (zwzengi@Outlook.com)
-    Chongqin University NLP Experiment
+    CQU NLP Experiment
 """
 
 from collections import defaultdict
