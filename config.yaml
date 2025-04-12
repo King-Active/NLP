@@ -1,0 +1,9 @@
+mode: 'infer'     # train / infer
+save: true
+save_path: 'models/pin2word_model.pkl.gz'
+load_path: 'models/pin2word_model.pkl.gz'
+path_raw_txt: ['train_data/cnews.test.txt', 'train_data/toutiao_cat_data.txt']
+path_txt_pin: ['train_data/sougou_process.txt', 'train_data/luo_tuo_xiang_zi.txt']
+path_pin_2_han: 'train_Data/pinyin2hanzi.txt'
+
+path_test: 'test_data/测试集.txt'
